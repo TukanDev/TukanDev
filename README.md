@@ -1,16 +1,15 @@
-### Hi there 👋
+### Software developer & System administrator.
 
-<!--
-**TukanDev/TukanDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working on **[Aphelly](https://www.aphellybot.xyz) - Multipurpose discord bot**
+- 📫 Email: **contact@tukandev.xyz**
 
-Here are some ideas to get you started:
+### Languages i work in
+- Node.js,
+- Java 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Socials
+- [Instagram](https://www.instagram.com/tukandevofficial)
+- [contact@tukandev.xyz](mailto:contact@tukandev.xyz)
+- [Discord: TukanDev#6988](https://discord.com/invite/YbPYAha)
+
+![TukanDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TukanDev&count_private=true&show_icons=true&theme=dark)
