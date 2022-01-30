@@ -1,15 +1,13 @@
 ### Software developer & System administrator.
 
-- Currently working on **[Aphelly](https://www.aphellybot.xyz) - Multipurpose discord bot**
-- 📫 Email: **contact@tukandev.xyz**
-
-### Languages i work in
-- Node.js,
+### Languages:
+- Node.js
 - Java 
 
 ### Socials
-- [Instagram](https://www.instagram.com/tukandevofficial)
-- [contact@tukandev.xyz](mailto:contact@tukandev.xyz)
-- [Discord: TukanDev#6988](https://discord.com/invite/YbPYAha)
+- 🌐 [Website](https://tukandev.com)
+- 💬 [Instagram](https://www.instagram.com/tukandevofficial)
+- 📫 [contact@tukandev.com](mailto:contact@tukandev.com)
+- 💬 [Discord: TukanDev#6988](https://discord.com/users/290120467417661440)
 
 ![TukanDev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TukanDev&count_private=true&show_icons=true&theme=dark)
