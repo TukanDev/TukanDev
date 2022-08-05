@@ -6,7 +6,6 @@
 
 ### Socials
 - 🌐 [Website](https://tukandev.com)
-- 💬 [Instagram](https://www.instagram.com/tukandevofficial)
 - 📫 [contact@tukandev.com](mailto:contact@tukandev.com)
 - 💬 [Discord: TukanDev#6988](https://discord.com/users/290120467417661440)
 
